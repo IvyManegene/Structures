@@ -1,2 +1,2 @@
 # Structures
-using structures to  attain the area and perimeter of a cricle
+using structures to  attain the area and circumference of a cricle
